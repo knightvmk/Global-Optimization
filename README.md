@@ -14,4 +14,4 @@ Repository for Global optimization learning work
 
 ## Описание репозитория:
 * AGS-sequental-one-size -- последовательный АГП для одномерной задачи
-* 
+* AGS-parallel-one-size -- параллельный АГП для одномерной задачи
