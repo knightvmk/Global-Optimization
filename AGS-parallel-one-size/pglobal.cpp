@@ -1,4 +1,4 @@
-#include "Pglobal.h"
+#include "pglobal.h"
 
 int Parallel_global::Optimize(const double _Epsilon, const int _Steps)
 {
