@@ -50,5 +50,4 @@ public:
 	int GetSteps() { return steps; };
 	void Set(const double _left, const double _right, const double _r) { left_x = _right; right_x = _right; r = _r; };
 };
-
 #endif
